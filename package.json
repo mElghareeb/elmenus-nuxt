@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-ts",
+  "name": "elmenus-web",
   "version": "1.0.0",
-  "description": "TypeScript powered Nuxt tutorial",
-  "author": "Al-un",
+  "description": "elmenus.com",
+  "author": "elmenus",
   "private": true,
   "scripts": {
     "dev": "nuxt",

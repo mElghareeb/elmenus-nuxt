@@ -2,12 +2,9 @@
   <section class="container">
     <div>
       <logo/>
-      <h1 class="title">nuxt-ts</h1>
-      <h2 class="subtitle">TypeScript powered Nuxt tutorial</h2>
-      <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
-      </div>
+      <h1 class="title">Elmenus</h1>
+      <h2 class="subtitle">Elmenus Web</h2>
+
     </div>
     <nuxt-link to="/polls">Polls</nuxt-link>
   </section>
